@@ -1,0 +1,9 @@
+Exercise 6
+I decided to ignore the namespace part of the question because I wasn't sure what it meant.
+I did manage to get the code to work, but I feel like I'm still doing something wrong.  Am I defining too much, too little, or is there something else that I am missing?
+
+Exercise 8
+This is another one that I did get to work, but I can't seem to change the formatting for the output.  When I tried the Console would try to print the object rather than what was inside of it.
+
+Exercise 9
+I can't test my solution because I'm stumped on how to pass user input to the StringUtility class, and return the result back to the main method.
